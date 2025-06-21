@@ -1,0 +1,8 @@
+Flask
+fastf1
+requests
+cachetools
+beautifulsoup4
+selenium
+babel
+flask-cors
